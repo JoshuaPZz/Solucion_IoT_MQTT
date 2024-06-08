@@ -1,4 +1,3 @@
-Aquí está el texto convertido del documento:
 
 Abstract—This paper proposes a method for timely identification of forest fires using NodeMCU ESP8266 microcontrollers and DHT22 environmental sensors. The system consists of two nodes: a sensor node that detects changes in temperature and humidity, and an alert node that displays data on an LCD screen and activates an audible alarm. Essential components such as the doorbell are analyzed and improvements such as advanced detection algorithms, extended wireless communication, and solar power options are suggested. Additionally, the MQTT protocol for device communication is examined, covering its features, quality of service levels, security, and case studies. MQTT brokers such as Eclipse Mosquitto, Mosca and EMQ are analyzed, along with a network topology for the system implementation. Finally, a test protocol is provided to evaluate the fire detection system.
 
